@@ -1,4 +1,4 @@
 <?php
-    echo 'Hola mundo';
-    echo 'Cómo estás?'
+    echo 'Hola mundo <br>';
+    echo 'Cómo estás?';
 ?>
